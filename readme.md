@@ -1,7 +1,7 @@
 # Angular 1.5 Component Generator
 
 Gulp infrastructure for cranking out new components from CLI.
-To be added to projects and customized.
+To be added to projects, customized, and extended.
 
 Takes templates in `templates/` folder, interpolates provided component name,
 and copies to `client/app/components/` (by default).
@@ -14,7 +14,6 @@ To create an "awesome" component
 gulp component --name awesome
 ```
 
-
-**Note**
+**Notes**
 
 Based on *Automation* section of Scott Moss's *Component-Based Architecture in AngularJS 1.x* course on [Frontend Masters](https://frontendmasters.com/).
